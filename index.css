@@ -1,0 +1,33 @@
+body{
+   background-color:rgba(143, 97, 117, 0.884) ; 
+   height: 1200px;   
+   width: auto; 
+}
+.lin{
+  font-family: "Abril Fatface", cursive;  
+  border-radius: 10px;
+  border-color: rgb(218, 153, 73);
+  border-width: 10px;
+  border-style: outset;
+  background-color:rgba(115, 105, 105, 0.9)  ;  
+}
+#n{
+  color: aliceblue;
+  width: 15px; ;
+} 
+h1{
+  color: burlywood;
+}
+footer{
+   font-family: "Abril Fatface",cursive;
+   font-size: small;
+}
+.Im{
+  border-radius: 25px;
+  }
+ iframe{
+  width:800px;
+  height: 900px;
+  border-radius: 10px;
+  
+ }
